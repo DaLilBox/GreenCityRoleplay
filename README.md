@@ -1,2 +1,2 @@
 # GreenCityRoleplay
-Les scripts de différents menus dans mon projet de jeu roleplay, inspiré de garry's mod, sur roblox.
+Les scripts de différents menus dans mon projet de jeu roleplay, inspiré du mode DarkRP garry's mod, sur roblox.
